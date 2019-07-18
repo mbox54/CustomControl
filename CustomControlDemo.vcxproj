@@ -14,7 +14,7 @@
     <SccProjectName />
     <SccLocalPath>Desktop</SccLocalPath>
     <Keyword>MFCProj</Keyword>
-    <ProjectGuid>{E06E0158-DB2B-4500-906D-A23A73D70536}</ProjectGuid>
+    <ProjectGuid>{699F0845-FC8A-45B6-8E0D-5EA2B105BF84}</ProjectGuid>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
@@ -53,6 +53,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
       <InlineFunctionExpansion>Default</InlineFunctionExpansion>
       <Optimization>Disabled</Optimization>
       <SuppressStartupBanner>true</SuppressStartupBanner>
