@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CustomControlDemo", "CustomControlDemo.vcxproj", "{E06E0158-DB2B-4500-906D-A23A73D70536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06E0158-DB2B-4500-906D-A23A73D70536}.Debug|x86.ActiveCfg = Debug|Win32
+		{E06E0158-DB2B-4500-906D-A23A73D70536}.Debug|x86.Build.0 = Debug|Win32
+		{E06E0158-DB2B-4500-906D-A23A73D70536}.Release|x86.ActiveCfg = Release|Win32
+		{E06E0158-DB2B-4500-906D-A23A73D70536}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982B1D57-3215-4E78-9ABA-AEAA7B6C26AF}
+	EndGlobalSection
+EndGlobal
